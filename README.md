@@ -1,4 +1,5 @@
 Nome do Repositório: ProjetoSQLServer
+
 Descrição:
 Este repositório é dedicado a um projeto introdutório sobre SQL no Microsoft SQL Server. O objetivo principal deste projeto é fornecer uma base sólida para iniciantes que desejam aprender e praticar conceitos básicos de SQL no ambiente específico do SQL Server. 
 
